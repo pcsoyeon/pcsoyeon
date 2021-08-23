@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-### 👩🏻‍💻  SO YEON (Yeoni)
+### 👩🏻‍💻  Yeoni
  -  **iOS Developer - ing**
  - **Interested in App Development and UX/UI Design**
 
