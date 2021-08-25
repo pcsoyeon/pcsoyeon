@@ -1,8 +1,12 @@
 ### Hi there 👋 
 
 ### 👩🏻‍💻  Yeoni
- -  **iOS Developer - ing**
+ - **iOS Developer - ing**
  - **Interested in App Development and UX/UI Design**
+ 
+<a href="https://receptive-humidity-bf2.notion.site/Kim-So-Yeon-a20c35fb42cf4daa8d5e2a376a5b8a38"> <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=white"/> </a>
+<a href="https://velog.io/@pcsoyeon/"> <img src="https://img.shields.io/badge/Tech Blog-black?style=flat&logo=Swift&logoColor=white"/> </a> 
+
 
 ###  🛠 Tech Stack 🛠
 <p alighn = "center">
