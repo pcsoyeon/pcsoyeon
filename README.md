@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-### 👩🏻‍💻  Yeoni
+### 👩🏻‍💻  SO-KYTE
  - **iOS Developer - ing**
  - **Interested in App Development and UX/UI Design**
  
