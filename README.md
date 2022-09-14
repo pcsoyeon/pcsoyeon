@@ -23,7 +23,7 @@
 
 ###  🟢 Activities 🟢
 | 연도 | 활동 | 수상 | 역할 |
-|----|----|----|----|
+|----|----|-------|----|
 | 2021 |	대학생 연합 IT 벤처 창업 동아리 SOPT 28기 iOS 파트 | 앱잼 참여팀 오무렌 최우수상 | iOS Developer |
 | 2021 | 대학생 연합 IT 벤처 창업 동아리 SOPT 29기 iOS 파트 | 솝커톤 참여팀 ㄷLink 최우수상 <br/> 앱잼 참여팀 beforeget 우수상 | iOS Lead Developer |
 | 2022 | 대학생 연합 IT 벤처 창업 동아리 SOPT 30기 Executives |  | General Affair |
