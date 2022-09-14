@@ -4,7 +4,7 @@
  
 <br/>
 
-###  ⚫️ Tech Stack ⚫️
+###  🔵 Tech Stack 🔵
 <p alighn = "center">
   
 <img src="https://img.shields.io/badge/Swift-red?style=flat-square&logo=Swift&logoColor=white"/>
@@ -22,13 +22,13 @@
 <br/>
 
 ###  🟢 Activities 🟢
-| 연도 | 활동 | 비고 |
-|------|---|---|
-| 2021 |	대학생 연합 IT 벤처 창업 동아리 SOPT 28기 iOS 파트 수료 | 앱잼 참여팀 오무렌 최우수상 |
-| 2021 | 대학생 연합 IT 벤처 창업 동아리 SOPT 29기 iOS 파트 수료 | 솝커톤 참여팀 ㄷLink 최우수상, <br/> 앱잼 참여팀 beforeget 우수상 |
-| 2022 | 대학생 연합 IT 벤처 창업 동아리 SOPT 30기 Executives | General Affair |
-| 2022 | 대학생 연합 IT 벤처 창업 동아리 SOPT 30기 iOS 파트 수료 | 앱잼 참여팀 Dear today 대상 |
-| 2022 | 새싹(SeSAC) iOS 앱 개발자 데뷔과정 2기 | |
+| 연도 | 활동 | 수상 | 역할 |
+|----|----|----|----|
+| 2021 |	대학생 연합 IT 벤처 창업 동아리 SOPT 28기 iOS 파트 | 앱잼 참여팀 오무렌 최우수상 | iOS Developer |
+| 2021 | 대학생 연합 IT 벤처 창업 동아리 SOPT 29기 iOS 파트 | 솝커톤 참여팀 ㄷLink 최우수상 <br/> 앱잼 참여팀 beforeget 우수상 | iOS Lead Developer |
+| 2022 | 대학생 연합 IT 벤처 창업 동아리 SOPT 30기 Executives |  | General Affair |
+| 2022 | 대학생 연합 IT 벤처 창업 동아리 SOPT 30기 iOS 파트 | 앱잼 참여팀 Dear today 대상 | iOS Lead Developer |
+| 2022 | 새싹(SeSAC) iOS 앱 개발자 데뷔과정 2기 |  | iOS Developer |
 
 <!--
 **pcsoyeon/pcsoyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
