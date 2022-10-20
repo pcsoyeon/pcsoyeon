@@ -1,10 +1,10 @@
-###  🟡 SO-KYTE 🟡
+###  🤍 SO-KYTE 🤍
 <a href="https://receptive-humidity-bf2.notion.site/Kim-So-Yeon-a20c35fb42cf4daa8d5e2a376a5b8a38"> <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=white"/> </a>
 <a href="https://so-kyte.tistory.com/"> <img src="https://img.shields.io/badge/Tech Blog-black?style=flat&logo=Swift&logoColor=white"/> </a> 
  
 <br/>
 
-###  🔵 Tech Stack 🔵
+###  ⚫️ Tech Stack ⚫️
 <p alighn = "center">
   
 <img src="https://img.shields.io/badge/Swift-red?style=flat-square&logo=Swift&logoColor=white"/>
@@ -34,7 +34,7 @@
 
 <br/>
 
-###  ⚫️ Apps ⚫️
+###  🔵 Apps 🔵
 | 연도 | 활동 | 이름 | 역할 | 링크 |
 |----|----|----|-------|----|
 | 2022 | 새싹(SeSAC) 개인 출시 프로젝트 | 니카내카 | iOS Developer | [AppStore](https://apps.apple.com/app/id6443532661) | 
