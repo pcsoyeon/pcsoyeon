@@ -37,7 +37,7 @@
 ###  ⚫️ Apps ⚫️
 | 연도 | 활동 | 이름 | 역할 | 링크 |
 |----|----|----|-------|----|
-| 2022 | 새싹(SeSAC) 개인 출시 프로젝트 | 니카내카 | iOS Lead Developer | [AppStore](https://apps.apple.com/app/id6443532661) | 
+| 2022 | 새싹(SeSAC) 개인 출시 프로젝트 | 니카내카 | iOS Developer | [AppStore](https://apps.apple.com/app/id6443532661) | 
 
 <!--
 **pcsoyeon/pcsoyeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
