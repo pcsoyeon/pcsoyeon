@@ -8,8 +8,6 @@
 <p alighn = "center">
   
 <img src="https://img.shields.io/badge/Swift-red?style=flat-square&logo=Swift&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-orange?style=flat-square&logo=Java&logoColor=white"/>
-<img src="https://img.shields.io/badge/C/C++-darkblue?style=flat-square&logo=C&logoColor=white"/>
   
 <img src="https://img.shields.io/badge/Adobe-black?style=flat-square&logo=Adobe&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-purple?style=flat-square&logo=Figma&logoColor=white"/>
