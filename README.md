@@ -1,4 +1,4 @@
-### 안녕하세요, iOS 개발자 김소연(Skylar)입니다. 
+### 안녕하세요, iOS 개발자 김소연입니다. 
 <a href="https://receptive-humidity-bf2.notion.site/636f5c4f06004753ab68bc4818e30b8c"> <img src="https://img.shields.io/badge/Notion-black?style=flat&logo=Notion&logoColor=white"/> </a>
 <a href="https://so-kyte.tistory.com/"> <img src="https://img.shields.io/badge/Tech Blog-black?style=flat&logo=Swift&logoColor=white"/> </a> 
 
