@@ -19,7 +19,7 @@
 
 <br/>
 
-### Activities
+### Experience
 | 연도 | 활동 | 수상 | 역할 |
 |----|----|-------|----|
 | 2021 |	대학생 연합 IT 벤처 창업 동아리 SOPT 28기 iOS 파트 | 앱잼 참여팀 오무렌 최우수상 | iOS Developer |
@@ -32,7 +32,7 @@
 
 <br/>
 
-### Apps
+### App
 | 연도 | 활동 | 이름 | 역할 | 링크 |
 |----|----|----|-------|----|
 | 2022 | 새싹(SeSAC) 개인 출시 프로젝트 | 니카내카 | iOS Developer | [AppStore](https://apps.apple.com/app/id6443532661) | 
