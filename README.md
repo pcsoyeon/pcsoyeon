@@ -7,6 +7,7 @@
 ### Experience
 | Date | Name | ETC |
 |----|----|-------|
+| 2024 | Goorm | 교육운영매니저 |
 | 2023 | Autocrypt FMS개발그룹 모바일팀 | iOS Developer |
 | 2022 | 새싹(SeSAC) iOS 앱 개발자 데뷔과정 2기 | iOS Developer |
 | 2022 | 대학생 연합 IT 벤처 창업 동아리 SOPT 30기 iOS 파트 | 앱잼 참여팀 Dear today 대상 |
