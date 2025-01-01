@@ -7,6 +7,8 @@
 ### Experience
 | Date | Name | ETC |
 |----|----|-------|
+| 2025 | 에프랩앤컴퍼니 | 개발자 커뮤니티 매니저 |
+| 2024 | 데이원컴퍼니 | 교육상품운영매니저 |
 | 2024 | Goorm | 교육운영매니저 |
 | 2023 | Autocrypt FMS개발그룹 모바일팀 | iOS Developer |
 | 2022 | 새싹(SeSAC) iOS 앱 개발자 데뷔과정 2기 | iOS Developer |
